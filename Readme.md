@@ -4,6 +4,7 @@
 ![1.png](https://raw.githubusercontent.com/Tikmoing/Heisenberg-Model/main/png/1.png)
 
 如上图所示为PBC自旋耦合示意图，它的哈密顿算符表达式为：
+$$ ss $$
 
 $$
 \hat{H} = \sum_i^n S_iS_{i+1} ,其中S_{n+1} = S_1
