@@ -13,9 +13,10 @@
 | 10   | 0.100000000 | -4.515446354 | -4.092207347 | 0.423239007 |
 | 12   | 0.083333333 | -5.387390917 | -5.031543404 | 0.355847513 |
 
-![1](https://raw.githubusercontent.com/Tikmoing/Heisenberg-Model/main/png/2.png)
+![2](https://raw.githubusercontent.com/Tikmoing/Heisenberg-Model/main/png/2.png)
 
 ## Heisenberg_tempature.py
 
 根据配分函数求温度和比热的关系
 
+![3](https://raw.githubusercontent.com/Tikmoing/Heisenberg-Model/main/png/3.png)
