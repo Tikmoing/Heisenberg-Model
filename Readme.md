@@ -15,3 +15,7 @@
 
 ![1](https://raw.githubusercontent.com/Tikmoing/Heisenberg-Model/main/png/2.png)
 
+## Heisenberg_tempature.py
+
+根据配分函数求温度和比热的关系
+
