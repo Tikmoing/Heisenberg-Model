@@ -13,5 +13,5 @@
 | 10   | 0.100000000 | -4.515446354 | -4.092207347 | 0.423239007 |
 | 12   | 0.083333333 | -5.387390917 | -5.031543404 | 0.355847513 |
 
-![image](https://user-images.githubusercontent.com/64118037/118159637-d726ea80-b44f-11eb-84ca-385b70001308.png)
+![1](https://raw.githubusercontent.com/Tikmoing/Heisenberg-Model/main/png/2.png)
 
